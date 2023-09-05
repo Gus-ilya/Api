@@ -110,8 +110,7 @@ class Sale:
                                     break
 
 
-
-
+f
 
 
 
